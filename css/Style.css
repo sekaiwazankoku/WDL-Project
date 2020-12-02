@@ -168,7 +168,7 @@ p{
 }
 
 .nav .social i:hover{
-    color: #a1c4cf;
+    color: #a1c4cf;  /* gradient colour */
 }
 
 /* -------x------- navbar ---------x------- */
@@ -188,7 +188,7 @@ main .site-title{
 main .site-title .site-background{
     padding-top: 10rem;
     text-align: center;
-    color:  rgb(19, 97, 19);  /*title color change*/
+    color:  rgb(19, 97, 19);  /*title color*/
 }
 
 main .site-title h1, h3{
